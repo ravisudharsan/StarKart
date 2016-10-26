@@ -1,0 +1,27 @@
+<footer class="footer p-t-1">
+        <div class="container">
+            <div class="pull-right">
+                <nav class="navbar" style="background:transparent; color: black;">
+                    <nav class="nav navbar-nav pull-xs-left">
+                        <a class="nav-item nav-link" href="#">Home</a>
+                        <a class="nav-item nav-link" href="#">About</a>
+                        <a class="nav-item nav-link" href="#">Download App</a>
+                        <a class="nav-item nav-link" href="#">Help</a>
+                    </nav>
+                </nav>
+            </div>
+
+            <a href="#"><i class="fa fa-facebook-official fa-2x"></i></a>
+            <a href="#"><i class="fa fa-pinterest-p fa-2x"></i></a>
+            <a href="#"><i class="fa fa-twitter fa-2x"></i></a>
+            <a href="#"><i class="fa fa-flickr fa-2x"></i></a>
+            <a href="#"><i class="fa fa-linkedin fa-2x"></i></a>
+
+            <p class="h6">
+                Powered by StarPass.com
+                <a href="http://www.StarPass.com" target="_blank"></a>
+            </p>
+        </div>
+    </footer>
+</body>
+</html>
